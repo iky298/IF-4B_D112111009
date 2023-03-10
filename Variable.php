@@ -1,9 +1,9 @@
 <?php
 
-    $name       = "Iqbal Heriyadi";
-    $age        = 24;
-    $address    = "Cimahi";
-    $iqbal      = "";
+    $name       = "Muhamad Rizki Maulana";
+    $age        = 23;
+    $address    = "Cirebon";
+    $Rizki      = "";
 
     echo "Name : ";
     echo $name;
@@ -17,8 +17,8 @@
     echo $address;
     echo "\n";
 
-    echo "Iqbal : ";
-    echo $iqbal;
+    echo "Rizki : ";
+    echo $Rizki;
     echo "\n";
 
 ?>
