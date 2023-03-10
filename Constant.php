@@ -1,6 +1,6 @@
 <?php
 
-    define("NAMA","Febri Hariyadi");
+    define("NAMA","Muhamad Rizki");
     define("CLUB","Persib Bandung");
 
     echo "Nama : ";

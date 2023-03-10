@@ -4,7 +4,7 @@
     var_dump($values);
     echo "\n";
 
-    $names = ["Iqbal", "Heriyadi"];
+    $names = ["Muhamad", "Rizki"];
     var_dump($names);
     echo "\n";
 

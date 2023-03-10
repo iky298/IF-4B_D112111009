@@ -5,6 +5,6 @@
     echo "\n";
 
     echo "Name : ";
-    echo "Rizki\t Maulana\n";
+    echo "Muhamad\t Rizki\n";
 
 ?>    

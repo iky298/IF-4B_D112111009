@@ -1,6 +1,6 @@
 <?php
 
-    $name       = "Muhamad Rizki Maulana";
+    $name       = "Muhamad Rizki";
     $age        = 23;
     $address    = "Cirebon";
     $Rizki      = "";
